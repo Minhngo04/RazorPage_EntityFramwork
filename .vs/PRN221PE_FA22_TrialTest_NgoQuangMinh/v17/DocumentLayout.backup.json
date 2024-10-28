@@ -1,0 +1,471 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT Document\\PRN212_Lesson\\Raror_EntityFramework\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E2E9BA-D123-4A20-8A84-AD8657188801}|PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj|d:\\fpt document\\prn212_lesson\\raror_entityframework\\prn221pe_fa22_trialtest_ngoquangminh\\prn221pe_fa22_trialtest_ngoquangminh\\pages\\candidate\\candidateprofile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E2E9BA-D123-4A20-8A84-AD8657188801}|PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj|solutionrelative:prn221pe_fa22_trialtest_ngoquangminh\\pages\\candidate\\candidateprofile.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E2E9BA-D123-4A20-8A84-AD8657188801}|PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj|d:\\fpt document\\prn212_lesson\\raror_entityframework\\prn221pe_fa22_trialtest_ngoquangminh\\prn221pe_fa22_trialtest_ngoquangminh\\pages\\candidate\\candidateprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2E2E9BA-D123-4A20-8A84-AD8657188801}|PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj|solutionrelative:prn221pe_fa22_trialtest_ngoquangminh\\pages\\candidate\\candidateprofile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E2E9BA-D123-4A20-8A84-AD8657188801}|PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj|d:\\fpt document\\prn212_lesson\\raror_entityframework\\prn221pe_fa22_trialtest_ngoquangminh\\prn221pe_fa22_trialtest_ngoquangminh\\data\\candidateprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E2E9BA-D123-4A20-8A84-AD8657188801}|PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj|solutionrelative:prn221pe_fa22_trialtest_ngoquangminh\\data\\candidateprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E2E9BA-D123-4A20-8A84-AD8657188801}|PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj|d:\\fpt document\\prn212_lesson\\raror_entityframework\\prn221pe_fa22_trialtest_ngoquangminh\\prn221pe_fa22_trialtest_ngoquangminh\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2E2E9BA-D123-4A20-8A84-AD8657188801}|PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj|solutionrelative:prn221pe_fa22_trialtest_ngoquangminh\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E2E9BA-D123-4A20-8A84-AD8657188801}|PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj|d:\\fpt document\\prn212_lesson\\raror_entityframework\\prn221pe_fa22_trialtest_ngoquangminh\\prn221pe_fa22_trialtest_ngoquangminh\\pages\\hraccount\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2E2E9BA-D123-4A20-8A84-AD8657188801}|PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj|solutionrelative:prn221pe_fa22_trialtest_ngoquangminh\\pages\\hraccount\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E2E9BA-D123-4A20-8A84-AD8657188801}|PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj|d:\\fpt document\\prn212_lesson\\raror_entityframework\\prn221pe_fa22_trialtest_ngoquangminh\\prn221pe_fa22_trialtest_ngoquangminh\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2E2E9BA-D123-4A20-8A84-AD8657188801}|PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj|solutionrelative:prn221pe_fa22_trialtest_ngoquangminh\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E2E9BA-D123-4A20-8A84-AD8657188801}|PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj|d:\\fpt document\\prn212_lesson\\raror_entityframework\\prn221pe_fa22_trialtest_ngoquangminh\\prn221pe_fa22_trialtest_ngoquangminh\\pages\\shared\\_nav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2E2E9BA-D123-4A20-8A84-AD8657188801}|PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj|solutionrelative:prn221pe_fa22_trialtest_ngoquangminh\\pages\\shared\\_nav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E2E9BA-D123-4A20-8A84-AD8657188801}|PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj|d:\\fpt document\\prn212_lesson\\raror_entityframework\\prn221pe_fa22_trialtest_ngoquangminh\\prn221pe_fa22_trialtest_ngoquangminh\\pages\\newfolder\\check.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2E2E9BA-D123-4A20-8A84-AD8657188801}|PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj|solutionrelative:prn221pe_fa22_trialtest_ngoquangminh\\pages\\newfolder\\check.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E2E9BA-D123-4A20-8A84-AD8657188801}|PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj|d:\\fpt document\\prn212_lesson\\raror_entityframework\\prn221pe_fa22_trialtest_ngoquangminh\\prn221pe_fa22_trialtest_ngoquangminh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E2E9BA-D123-4A20-8A84-AD8657188801}|PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj|solutionrelative:prn221pe_fa22_trialtest_ngoquangminh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E2E9BA-D123-4A20-8A84-AD8657188801}|PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj|d:\\fpt document\\prn212_lesson\\raror_entityframework\\prn221pe_fa22_trialtest_ngoquangminh\\prn221pe_fa22_trialtest_ngoquangminh\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2E2E9BA-D123-4A20-8A84-AD8657188801}|PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj|solutionrelative:prn221pe_fa22_trialtest_ngoquangminh\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E2E9BA-D123-4A20-8A84-AD8657188801}|PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj|d:\\fpt document\\prn212_lesson\\raror_entityframework\\prn221pe_fa22_trialtest_ngoquangminh\\prn221pe_fa22_trialtest_ngoquangminh\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E2E9BA-D123-4A20-8A84-AD8657188801}|PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj|solutionrelative:prn221pe_fa22_trialtest_ngoquangminh\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E2E9BA-D123-4A20-8A84-AD8657188801}|PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj|d:\\fpt document\\prn212_lesson\\raror_entityframework\\prn221pe_fa22_trialtest_ngoquangminh\\prn221pe_fa22_trialtest_ngoquangminh\\data\\jobposting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E2E9BA-D123-4A20-8A84-AD8657188801}|PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj|solutionrelative:prn221pe_fa22_trialtest_ngoquangminh\\data\\jobposting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E2E9BA-D123-4A20-8A84-AD8657188801}|PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj|d:\\fpt document\\prn212_lesson\\raror_entityframework\\prn221pe_fa22_trialtest_ngoquangminh\\prn221pe_fa22_trialtest_ngoquangminh\\data\\candidatemanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E2E9BA-D123-4A20-8A84-AD8657188801}|PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj|solutionrelative:prn221pe_fa22_trialtest_ngoquangminh\\data\\candidatemanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E2E9BA-D123-4A20-8A84-AD8657188801}|PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj|d:\\fpt document\\prn212_lesson\\raror_entityframework\\prn221pe_fa22_trialtest_ngoquangminh\\prn221pe_fa22_trialtest_ngoquangminh\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F2E2E9BA-D123-4A20-8A84-AD8657188801}|PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj|solutionrelative:prn221pe_fa22_trialtest_ngoquangminh\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E2E9BA-D123-4A20-8A84-AD8657188801}|PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj|d:\\fpt document\\prn212_lesson\\raror_entityframework\\prn221pe_fa22_trialtest_ngoquangminh\\prn221pe_fa22_trialtest_ngoquangminh\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F2E2E9BA-D123-4A20-8A84-AD8657188801}|PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj|solutionrelative:prn221pe_fa22_trialtest_ngoquangminh\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E2E9BA-D123-4A20-8A84-AD8657188801}|PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj|d:\\fpt document\\prn212_lesson\\raror_entityframework\\prn221pe_fa22_trialtest_ngoquangminh\\prn221pe_fa22_trialtest_ngoquangminh\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2E2E9BA-D123-4A20-8A84-AD8657188801}|PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj|solutionrelative:prn221pe_fa22_trialtest_ngoquangminh\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E2E9BA-D123-4A20-8A84-AD8657188801}|PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj|d:\\fpt document\\prn212_lesson\\raror_entityframework\\prn221pe_fa22_trialtest_ngoquangminh\\prn221pe_fa22_trialtest_ngoquangminh\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2E2E9BA-D123-4A20-8A84-AD8657188801}|PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj|solutionrelative:prn221pe_fa22_trialtest_ngoquangminh\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E2E9BA-D123-4A20-8A84-AD8657188801}|PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj|d:\\fpt document\\prn212_lesson\\raror_entityframework\\prn221pe_fa22_trialtest_ngoquangminh\\prn221pe_fa22_trialtest_ngoquangminh\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E2E9BA-D123-4A20-8A84-AD8657188801}|PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj|solutionrelative:prn221pe_fa22_trialtest_ngoquangminh\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E2E9BA-D123-4A20-8A84-AD8657188801}|PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj|d:\\fpt document\\prn212_lesson\\raror_entityframework\\prn221pe_fa22_trialtest_ngoquangminh\\prn221pe_fa22_trialtest_ngoquangminh\\pages\\hraccount\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E2E9BA-D123-4A20-8A84-AD8657188801}|PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj|solutionrelative:prn221pe_fa22_trialtest_ngoquangminh\\pages\\hraccount\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E2E9BA-D123-4A20-8A84-AD8657188801}|PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj|d:\\fpt document\\prn212_lesson\\raror_entityframework\\prn221pe_fa22_trialtest_ngoquangminh\\prn221pe_fa22_trialtest_ngoquangminh\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2E2E9BA-D123-4A20-8A84-AD8657188801}|PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj|solutionrelative:prn221pe_fa22_trialtest_ngoquangminh\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E2E9BA-D123-4A20-8A84-AD8657188801}|PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj|d:\\fpt document\\prn212_lesson\\raror_entityframework\\prn221pe_fa22_trialtest_ngoquangminh\\prn221pe_fa22_trialtest_ngoquangminh\\pages\\shared\\_message.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F2E2E9BA-D123-4A20-8A84-AD8657188801}|PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj|solutionrelative:prn221pe_fa22_trialtest_ngoquangminh\\pages\\shared\\_message.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E2E9BA-D123-4A20-8A84-AD8657188801}|PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj|d:\\fpt document\\prn212_lesson\\raror_entityframework\\prn221pe_fa22_trialtest_ngoquangminh\\prn221pe_fa22_trialtest_ngoquangminh\\data\\hraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E2E9BA-D123-4A20-8A84-AD8657188801}|PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj|solutionrelative:prn221pe_fa22_trialtest_ngoquangminh\\data\\hraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E2E9BA-D123-4A20-8A84-AD8657188801}|PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj|d:\\fpt document\\prn212_lesson\\raror_entityframework\\prn221pe_fa22_trialtest_ngoquangminh\\prn221pe_fa22_trialtest_ngoquangminh\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2E2E9BA-D123-4A20-8A84-AD8657188801}|PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj|solutionrelative:prn221pe_fa22_trialtest_ngoquangminh\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E2E9BA-D123-4A20-8A84-AD8657188801}|PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj|d:\\fpt document\\prn212_lesson\\raror_entityframework\\prn221pe_fa22_trialtest_ngoquangminh\\prn221pe_fa22_trialtest_ngoquangminh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F2E2E9BA-D123-4A20-8A84-AD8657188801}|PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj|solutionrelative:prn221pe_fa22_trialtest_ngoquangminh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E2E9BA-D123-4A20-8A84-AD8657188801}|PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj|d:\\fpt document\\prn212_lesson\\raror_entityframework\\prn221pe_fa22_trialtest_ngoquangminh\\prn221pe_fa22_trialtest_ngoquangminh\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F2E2E9BA-D123-4A20-8A84-AD8657188801}|PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj|solutionrelative:prn221pe_fa22_trialtest_ngoquangminh\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E2E9BA-D123-4A20-8A84-AD8657188801}|PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj|d:\\fpt document\\prn212_lesson\\raror_entityframework\\prn221pe_fa22_trialtest_ngoquangminh\\prn221pe_fa22_trialtest_ngoquangminh\\prn221pe_fa22_trialtest_ngoquangminh.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F2E2E9BA-D123-4A20-8A84-AD8657188801}|PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj|solutionrelative:prn221pe_fa22_trialtest_ngoquangminh\\prn221pe_fa22_trialtest_ngoquangminh.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2E2E9BA-D123-4A20-8A84-AD8657188801}|PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj|d:\\fpt document\\prn212_lesson\\raror_entityframework\\prn221pe_fa22_trialtest_ngoquangminh\\prn221pe_fa22_trialtest_ngoquangminh\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F2E2E9BA-D123-4A20-8A84-AD8657188801}|PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj|solutionrelative:prn221pe_fa22_trialtest_ngoquangminh\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\FPT Document\\PRN212_Lesson\\Raror_EntityFramework\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\Index.cshtml.cs",
+              "ToolTip": "D:\\FPT Document\\PRN212_Lesson\\Raror_EntityFramework\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T05:33:21.739Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\FPT Document\\PRN212_Lesson\\Raror_EntityFramework\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\HrAccount\\Login.cshtml",
+              "RelativeDocumentMoniker": "PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\HrAccount\\Login.cshtml",
+              "ToolTip": "D:\\FPT Document\\PRN212_Lesson\\Raror_EntityFramework\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\HrAccount\\Login.cshtml",
+              "RelativeToolTip": "PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\HrAccount\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T08:21:27.469Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CandidateProfile.cs",
+              "DocumentMoniker": "D:\\FPT Document\\PRN212_Lesson\\Raror_EntityFramework\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\Data\\CandidateProfile.cs",
+              "RelativeDocumentMoniker": "PRN221PE_FA22_TrialTest_NgoQuangMinh\\Data\\CandidateProfile.cs",
+              "ToolTip": "D:\\FPT Document\\PRN212_Lesson\\Raror_EntityFramework\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\Data\\CandidateProfile.cs",
+              "RelativeToolTip": "PRN221PE_FA22_TrialTest_NgoQuangMinh\\Data\\CandidateProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T06:49:57.671Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CandidateProfile.cshtml.cs",
+              "DocumentMoniker": "D:\\FPT Document\\PRN212_Lesson\\Raror_EntityFramework\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\Candidate\\CandidateProfile.cshtml.cs",
+              "RelativeDocumentMoniker": "PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\Candidate\\CandidateProfile.cshtml.cs",
+              "ToolTip": "D:\\FPT Document\\PRN212_Lesson\\Raror_EntityFramework\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\Candidate\\CandidateProfile.cshtml.cs",
+              "RelativeToolTip": "PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\Candidate\\CandidateProfile.cshtml.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAADwv0QAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T02:44:24.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CandidateProfile.cshtml",
+              "DocumentMoniker": "D:\\FPT Document\\PRN212_Lesson\\Raror_EntityFramework\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\Candidate\\CandidateProfile.cshtml",
+              "RelativeDocumentMoniker": "PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\Candidate\\CandidateProfile.cshtml",
+              "ToolTip": "D:\\FPT Document\\PRN212_Lesson\\Raror_EntityFramework\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\Candidate\\CandidateProfile.cshtml",
+              "RelativeToolTip": "PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\Candidate\\CandidateProfile.cshtml",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAABYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T01:10:50.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Check.cshtml",
+              "DocumentMoniker": "D:\\FPT Document\\PRN212_Lesson\\Raror_EntityFramework\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\NewFolder\\Check.cshtml",
+              "RelativeDocumentMoniker": "PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\NewFolder\\Check.cshtml",
+              "ToolTip": "D:\\FPT Document\\PRN212_Lesson\\Raror_EntityFramework\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\NewFolder\\Check.cshtml",
+              "RelativeToolTip": "PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\NewFolder\\Check.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T01:01:36.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPT Document\\PRN212_Lesson\\Raror_EntityFramework\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\Program.cs",
+              "RelativeDocumentMoniker": "PRN221PE_FA22_TrialTest_NgoQuangMinh\\Program.cs",
+              "ToolTip": "D:\\FPT Document\\PRN212_Lesson\\Raror_EntityFramework\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\Program.cs",
+              "RelativeToolTip": "PRN221PE_FA22_TrialTest_NgoQuangMinh\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T01:39:24.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Nav.cshtml",
+              "DocumentMoniker": "D:\\FPT Document\\PRN212_Lesson\\Raror_EntityFramework\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\Shared\\_Nav.cshtml",
+              "RelativeDocumentMoniker": "PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\Shared\\_Nav.cshtml",
+              "ToolTip": "D:\\FPT Document\\PRN212_Lesson\\Raror_EntityFramework\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\Shared\\_Nav.cshtml",
+              "RelativeToolTip": "PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\Shared\\_Nav.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T05:38:06.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\FPT Document\\PRN212_Lesson\\Raror_EntityFramework\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\Error.cshtml",
+              "ToolTip": "D:\\FPT Document\\PRN212_Lesson\\Raror_EntityFramework\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\Error.cshtml",
+              "RelativeToolTip": "PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T01:40:24.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\FPT Document\\PRN212_Lesson\\Raror_EntityFramework\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "D:\\FPT Document\\PRN212_Lesson\\Raror_EntityFramework\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T01:40:25.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JobPosting.cs",
+              "DocumentMoniker": "D:\\FPT Document\\PRN212_Lesson\\Raror_EntityFramework\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\Data\\JobPosting.cs",
+              "RelativeDocumentMoniker": "PRN221PE_FA22_TrialTest_NgoQuangMinh\\Data\\JobPosting.cs",
+              "ToolTip": "D:\\FPT Document\\PRN212_Lesson\\Raror_EntityFramework\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\Data\\JobPosting.cs",
+              "RelativeToolTip": "PRN221PE_FA22_TrialTest_NgoQuangMinh\\Data\\JobPosting.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T06:04:03.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CandidateManagementContext.cs",
+              "DocumentMoniker": "D:\\FPT Document\\PRN212_Lesson\\Raror_EntityFramework\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\Data\\CandidateManagementContext.cs",
+              "RelativeDocumentMoniker": "PRN221PE_FA22_TrialTest_NgoQuangMinh\\Data\\CandidateManagementContext.cs",
+              "ToolTip": "D:\\FPT Document\\PRN212_Lesson\\Raror_EntityFramework\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\Data\\CandidateManagementContext.cs",
+              "RelativeToolTip": "PRN221PE_FA22_TrialTest_NgoQuangMinh\\Data\\CandidateManagementContext.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAcwGYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T04:11:45.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\FPT Document\\PRN212_Lesson\\Raror_EntityFramework\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\appsettings.json",
+              "RelativeDocumentMoniker": "PRN221PE_FA22_TrialTest_NgoQuangMinh\\appsettings.json",
+              "ToolTip": "D:\\FPT Document\\PRN212_Lesson\\Raror_EntityFramework\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\appsettings.json",
+              "RelativeToolTip": "PRN221PE_FA22_TrialTest_NgoQuangMinh\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-27T14:46:22.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\FPT Document\\PRN212_Lesson\\Raror_EntityFramework\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\FPT Document\\PRN212_Lesson\\Raror_EntityFramework\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T05:29:32.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\FPT Document\\PRN212_Lesson\\Raror_EntityFramework\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\Privacy.cshtml",
+              "ToolTip": "D:\\FPT Document\\PRN212_Lesson\\Raror_EntityFramework\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T01:40:22.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\FPT Document\\PRN212_Lesson\\Raror_EntityFramework\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\HrAccount\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\HrAccount\\Login.cshtml.cs",
+              "ToolTip": "D:\\FPT Document\\PRN212_Lesson\\Raror_EntityFramework\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\HrAccount\\Login.cshtml.cs",
+              "RelativeToolTip": "PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\HrAccount\\Login.cshtml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAzwBkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T08:22:10.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\FPT Document\\PRN212_Lesson\\Raror_EntityFramework\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PRN221PE_FA22_TrialTest_NgoQuangMinh\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\FPT Document\\PRN212_Lesson\\Raror_EntityFramework\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PRN221PE_FA22_TrialTest_NgoQuangMinh\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-27T09:16:34.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FPT Document\\PRN212_Lesson\\Raror_EntityFramework\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\FPT Document\\PRN212_Lesson\\Raror_EntityFramework\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\Index.cshtml",
+              "RelativeToolTip": "PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T05:19:36.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\FPT Document\\PRN212_Lesson\\Raror_EntityFramework\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "D:\\FPT Document\\PRN212_Lesson\\Raror_EntityFramework\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T05:15:33.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Error.cshtml.cs",
+              "DocumentMoniker": "D:\\FPT Document\\PRN212_Lesson\\Raror_EntityFramework\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\Error.cshtml.cs",
+              "RelativeDocumentMoniker": "PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\Error.cshtml.cs",
+              "ToolTip": "D:\\FPT Document\\PRN212_Lesson\\Raror_EntityFramework\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\Error.cshtml.cs",
+              "RelativeToolTip": "PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\Error.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T06:46:47.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Message.cshtml",
+              "DocumentMoniker": "D:\\FPT Document\\PRN212_Lesson\\Raror_EntityFramework\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\Shared\\_Message.cshtml",
+              "RelativeDocumentMoniker": "PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\Shared\\_Message.cshtml",
+              "ToolTip": "D:\\FPT Document\\PRN212_Lesson\\Raror_EntityFramework\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\Shared\\_Message.cshtml",
+              "RelativeToolTip": "PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\Shared\\_Message.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T09:07:14.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Hraccount.cs",
+              "DocumentMoniker": "D:\\FPT Document\\PRN212_Lesson\\Raror_EntityFramework\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\Data\\Hraccount.cs",
+              "RelativeDocumentMoniker": "PRN221PE_FA22_TrialTest_NgoQuangMinh\\Data\\Hraccount.cs",
+              "ToolTip": "D:\\FPT Document\\PRN212_Lesson\\Raror_EntityFramework\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\Data\\Hraccount.cs",
+              "RelativeToolTip": "PRN221PE_FA22_TrialTest_NgoQuangMinh\\Data\\Hraccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T06:49:58.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "D:\\FPT Document\\PRN212_Lesson\\Raror_EntityFramework\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\Privacy.cshtml.cs",
+              "ToolTip": "D:\\FPT Document\\PRN212_Lesson\\Raror_EntityFramework\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\Privacy.cshtml.cs",
+              "RelativeToolTip": "PRN221PE_FA22_TrialTest_NgoQuangMinh\\Pages\\Privacy.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T06:50:00.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "bootstrap.bundle.js",
+              "DocumentMoniker": "D:\\FPT Document\\PRN212_Lesson\\Raror_EntityFramework\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "RelativeDocumentMoniker": "PRN221PE_FA22_TrialTest_NgoQuangMinh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "ToolTip": "D:\\FPT Document\\PRN212_Lesson\\Raror_EntityFramework\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "RelativeToolTip": "PRN221PE_FA22_TrialTest_NgoQuangMinh\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "ViewState": "AgIAADQCAAAAAAAAAIAwwD4CAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-27T06:53:34.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "additional-methods.js",
+              "DocumentMoniker": "D:\\FPT Document\\PRN212_Lesson\\Raror_EntityFramework\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeDocumentMoniker": "PRN221PE_FA22_TrialTest_NgoQuangMinh\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ToolTip": "D:\\FPT Document\\PRN212_Lesson\\Raror_EntityFramework\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeToolTip": "PRN221PE_FA22_TrialTest_NgoQuangMinh\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ViewState": "AgIAAAYBAAAAAAAAAIAwwBABAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-27T06:53:55.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj",
+              "DocumentMoniker": "D:\\FPT Document\\PRN212_Lesson\\Raror_EntityFramework\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj",
+              "RelativeDocumentMoniker": "PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj",
+              "ToolTip": "D:\\FPT Document\\PRN212_Lesson\\Raror_EntityFramework\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj",
+              "RelativeToolTip": "PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-27T01:39:23.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\FPT Document\\PRN212_Lesson\\Raror_EntityFramework\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "PRN221PE_FA22_TrialTest_NgoQuangMinh\\appsettings.Development.json",
+              "ToolTip": "D:\\FPT Document\\PRN212_Lesson\\Raror_EntityFramework\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\PRN221PE_FA22_TrialTest_NgoQuangMinh\\appsettings.Development.json",
+              "RelativeToolTip": "PRN221PE_FA22_TrialTest_NgoQuangMinh\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-27T04:12:46.154Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

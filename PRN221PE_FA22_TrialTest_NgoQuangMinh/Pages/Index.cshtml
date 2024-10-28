@@ -1,0 +1,21 @@
+﻿@page
+@model PRN221PE_FA22_TrialTest_NgoQuangMinh.Pages.IndexModel
+@using Microsoft.AspNetCore.Http
+@{
+    ViewData["Title"] = "Home Page";
+
+    // Set the UserEmail in ViewData
+    ViewData["UserEmail"] = Model.UserEmail;
+}
+
+<partial name="_Message" />
+
+<h2>Welcome!</h2>
+@if (!string.IsNullOrEmpty(Model.UserEmail))
+{
+    <p>You are logged in as: @Model.UserEmail</p>
+}
+else
+{
+    <p>You are not logged in.</p>
+}

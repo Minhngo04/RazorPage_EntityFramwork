@@ -1,0 +1,142 @@
+﻿@page
+@model PRN221PE_FA22_TrialTest_NgoQuangMinh.Pages.Candidate.CandidateProfileModel
+@{
+}
+<div class="container mt-5">
+    <h1 class="text-center">CANDIDATE PROFILE MANAGEMENT</h1>
+    @Html.AntiForgeryToken() <!-- Thêm token CSRF vào đây -->
+    <div class="row">
+        <div class="col-md-4">
+            <form id="formtest">
+                <div class="form-group">
+                    <label for="txtID">Candidate ID</label>
+                    <input type="text" class="form-control" id="txtID" name="txtID" />
+                </div>
+                <div class="form-group">
+                    <label for="txtName">Full Name</label>
+                    <input type="text" class="form-control" id="txtName" name="txtName" />
+                </div>
+                <div class="form-group">
+                    <label for="cmbPostID">Job Posting</label>
+                    <select class="form-control" id="cmbPostID" name="cmbPostID" required>
+                        @foreach (var job in Model.JobPostings)
+                        {
+                            <option value="@job.PostingId">@job.JobPostingTitle</option>
+                        }
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="BirthDay">Birth Date</label>
+                    <input type="date" class="form-control" id="BirthDay" name="BirthDay" />
+                </div>
+                <div class="form-group">
+                    <label for="img">Image URL</label>
+                    <input type="text" class="form-control" id="img" name="img" />
+                </div>
+                <div class="form-group">
+                    <label for="txtDescript">Description</label>
+                    <textarea class="form-control" id="txtDescript" name="txtDescript" rows="4"></textarea>
+                </div>
+            </form>
+            <button class="btn btn-success" id="btnTest">Add</button>
+            <button class="btn btn-info" id="BtnUpdate" onclick="Button_Update()">Update</button>
+            <button class="btn btn-warning" id="BtnDelete" onclick="Button_Delete()">Delete</button>
+            <button class="btn btn-danger" id="Btn_Close" onclick="Button_Close()">Close</button>
+        </div>
+
+        <div class="col-md-8">
+            <div class="table-responsive">
+                <table class="table table-bordered" id="dtgCandidateProfile">
+                    <thead>
+                        <tr>
+                            <th>Candidate ID</th>
+                            <th>Full Name</th>
+                            <th>Job Posting</th>
+                            <th>Birth Date</th>
+                            <th>Image URL</th>
+                            <th>Description</th>
+                            <th>Action</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @if (Model.Candidates != null && Model.Candidates.Count > 0)
+                        {
+                            foreach (var candidate in Model.Candidates)
+                            {
+                                <tr>
+                                    <td>@candidate.CandidateId</td>
+                                    <td>@candidate.Fullname</td>
+                                    <td>@candidate.Posting?.JobPostingTitle</td>
+                                    <td>@candidate.Birthday</td>
+                                    <td><img src="@candidate.ProfileUrl" alt="Candidate Image" width="100" /></td>
+                                    <td>@candidate.ProfileShortDescription</td>
+                                    <td><button class="btn btn-link" onclick="getCandidateDetails('@candidate.CandidateId')">Get Detail</button></td>
+                                </tr>
+                            }
+                        }
+                        else
+                        {
+                            <tr>
+                                <td colspan="7" class="text-center">No candidates found.</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script> <
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            $("#btnTest").click(function (event) {
+                event.preventDefault(); // Prevent the default form submission
+
+                var candidateData = {
+                    CandidateId: $("#txtID").val(),
+                    Fullname: $("#txtName").val(),
+                    PostingId: $("#cmbPostID").val(),
+                    Birthday: $("#BirthDay").val(),
+                    ProfileUrl: $("#img").val(),
+                    ProfileShortDescription: $("#txtDescript").val()
+                };
+
+                $.ajax({
+                    type: "POST",
+                    url: "/Candidate/CandidateProfile?handler=CreateCandidate",
+                    headers: {
+                        "RequestVerificationToken": $("input[name='__RequestVerificationToken']").val()
+                    },
+                    data: candidateData, // Pass candidateData directly
+                    success: function (response) {
+                        console.log("Form submitted successfully:", response);
+                    },
+                    error: function (xhr, status, error) {
+                        console.error("Error:", error);
+                        alert(`Failed to submit form. Error: ${xhr.responseText || 'Please try again.'}`);
+                    }
+                });
+            });
+        });
+
+
+        function getCandidateDetails(candidateId) {
+            fetch(`./CandidateProfile?handler=CandidateDetails&id=${candidateId}`)
+                .then(response => response.json())
+                .then(candidate => {
+                    if (candidate) {
+                        document.getElementById("txtID").value = candidate.candidateId;
+                        document.getElementById("txtName").value = candidate.fullname;
+                        document.getElementById("txtDescript").value = candidate.profileShortDescription;
+                        document.getElementById("BirthDay").value = candidate.birthday.split('T')[0]; // Format date nếu cần
+                        document.getElementById("img").value = candidate.profileUrl;
+                        document.getElementById("cmbPostID").value = candidate.postingId;
+                    } else {
+                        alert("Candidate details not found.");
+                    }
+                })
+                .catch(error => console.error('Error fetching candidate details:', error));
+        }
+    </script>
+}

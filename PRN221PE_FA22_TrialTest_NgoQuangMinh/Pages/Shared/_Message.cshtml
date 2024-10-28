@@ -1,0 +1,22 @@
+﻿<style>
+     .message-partial {
+        position: absolute; /* Position relative to the viewport */
+        top: 12%;
+        right: 1%;
+        z-index: 1000; /* Ensure it appears above other content */
+    }
+</style>
+
+@if (TempData["success"] != null)
+{
+    <div class="alert alert-success message-partial">
+        @TempData["success"]
+    </div>
+}
+
+@if (TempData["error"] != null)
+{
+    <div class="alert alert-danger message-partial">
+        @TempData["error"]
+    </div>
+}

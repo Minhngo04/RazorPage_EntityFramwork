@@ -1,0 +1,63 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PRN221PE_FA22_TrialTest_NgoQuangMinh
+build_property.RootNamespace = PRN221PE_FA22_TrialTest_NgoQuangMinh
+build_property.ProjectDir = D:\FPT Document\PRN212_Lesson\Raror_EntityFramework\PRN221PE_FA22_TrialTest_NgoQuangMinh\PRN221PE_FA22_TrialTest_NgoQuangMinh\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = D:\FPT Document\PRN212_Lesson\Raror_EntityFramework\PRN221PE_FA22_TrialTest_NgoQuangMinh\PRN221PE_FA22_TrialTest_NgoQuangMinh
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/FPT Document/PRN212_Lesson/Raror_EntityFramework/PRN221PE_FA22_TrialTest_NgoQuangMinh/PRN221PE_FA22_TrialTest_NgoQuangMinh/Pages/Candidate/CandidateProfile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FuZGlkYXRlXENhbmRpZGF0ZVByb2ZpbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Document/PRN212_Lesson/Raror_EntityFramework/PRN221PE_FA22_TrialTest_NgoQuangMinh/PRN221PE_FA22_TrialTest_NgoQuangMinh/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Document/PRN212_Lesson/Raror_EntityFramework/PRN221PE_FA22_TrialTest_NgoQuangMinh/PRN221PE_FA22_TrialTest_NgoQuangMinh/Pages/HrAccount/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSHJBY2NvdW50XExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Document/PRN212_Lesson/Raror_EntityFramework/PRN221PE_FA22_TrialTest_NgoQuangMinh/PRN221PE_FA22_TrialTest_NgoQuangMinh/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Document/PRN212_Lesson/Raror_EntityFramework/PRN221PE_FA22_TrialTest_NgoQuangMinh/PRN221PE_FA22_TrialTest_NgoQuangMinh/Pages/NewFolder/Check.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTmV3Rm9sZGVyXENoZWNrLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Document/PRN212_Lesson/Raror_EntityFramework/PRN221PE_FA22_TrialTest_NgoQuangMinh/PRN221PE_FA22_TrialTest_NgoQuangMinh/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Document/PRN212_Lesson/Raror_EntityFramework/PRN221PE_FA22_TrialTest_NgoQuangMinh/PRN221PE_FA22_TrialTest_NgoQuangMinh/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Document/PRN212_Lesson/Raror_EntityFramework/PRN221PE_FA22_TrialTest_NgoQuangMinh/PRN221PE_FA22_TrialTest_NgoQuangMinh/Pages/Shared/_Message.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9NZXNzYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Document/PRN212_Lesson/Raror_EntityFramework/PRN221PE_FA22_TrialTest_NgoQuangMinh/PRN221PE_FA22_TrialTest_NgoQuangMinh/Pages/Shared/_Nav.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9OYXYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Document/PRN212_Lesson/Raror_EntityFramework/PRN221PE_FA22_TrialTest_NgoQuangMinh/PRN221PE_FA22_TrialTest_NgoQuangMinh/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT Document/PRN212_Lesson/Raror_EntityFramework/PRN221PE_FA22_TrialTest_NgoQuangMinh/PRN221PE_FA22_TrialTest_NgoQuangMinh/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
